@@ -11,6 +11,7 @@ while True:
         if num % c == 0:
             divisors.append(c)
     print(f'The divisors of {num} are {divisors}.')
+    divisors.clear()
     print()
     another = str(input('Do you want to input another number? [Y/N]: ')).upper()
     print()
