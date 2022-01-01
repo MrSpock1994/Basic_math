@@ -1,2 +1,2 @@
 # Basic_math
-Basic math programs
+Some of the programs are exercises from the site: https://projecteuler.net/archives
